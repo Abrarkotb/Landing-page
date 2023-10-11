@@ -1,0 +1,133 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Main1{
+    width: 100%;
+    background-color: rgb(13, 13, 39);
+}
+
+.con1{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    /* border: 4px solid gold; */
+    /* padding-top: 15px;  */
+}
+.first{
+width: 40%;
+text-align: left;
+color:  white;
+float: left;
+}
+.first h1{
+    display: inline-block;
+}
+.second{
+    border-top:  1px solid grey;
+} 
+
+.second li{
+    display: inline-block;
+    color: whitesmoke;
+    padding: 4px;
+}
+.second li:hover{
+    color: darkcyan;
+    opacity: 0.5;
+  }  
+
+
+.main2{
+    width: 100%;
+    background-color: white;
+}
+.con2{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 15px; 
+}
+.con2 .first{
+    width: 20%;
+    margin : 20px;
+    padding: 2px;
+    text-align: center;
+    color: gray;
+    float: left;
+}
+
+.first p{
+    text-align: justify;   
+}  
+
+
+
+.Main3{
+    width: 100%;
+       background-color: cornflowerblue;
+}
+
+ .con3{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 40px;
+}
+.screenshot{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+.screenshot p{
+    text-align: center;
+}
+
+.ims{
+    /* margin: 40px; */
+    text-align: center;
+}
+.ims img{
+    /* border: 3px solid white; */
+    /* outline: 3px white; */
+    padding: 30px;
+
+}
+.ims img:hover{
+    opacity: 0.5;
+}  
+
+
+.main4{
+    width: 100%;
+    background-color: white;
+}
+.con4{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+}
+.side{
+    width: 40%;
+   text-align: center;
+   color: black;
+   padding: 30px;
+   border-radius: 10px;
+   float: left;
+}
+.side p{
+    text-align: justify;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.side img{
+    padding-top: 15px;
+    /* border: 3px solid grey; */
+    outline: 3px gray;
+}
+
+.clearfix{
+    clear: both;
+}
